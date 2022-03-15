@@ -22,4 +22,4 @@ mongoose.connect(MONGODB,{useNewUrlParser:true})
 }).then((res)=>{
      console.log(`server running at ${res.url}`);
 })
-.catch(e=>console.error(e))
+.catch(e=>console.log(e))

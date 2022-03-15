@@ -1,6 +1,0 @@
-{"extension": {
-    "endpoints": {
-      "default": "http://localhost:3001/graphql"
-    }
-  }
-}
