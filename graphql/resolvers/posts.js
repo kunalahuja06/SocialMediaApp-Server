@@ -1,5 +1,4 @@
 const {AuthenticationError, UserInputError}=require('apollo-server')
-const { Mutation } = require('.')
 
 const Post=require('../../models/Post')
 const Auth=require('../../utils/auth')
